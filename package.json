@@ -1,0 +1,21 @@
+{
+	"name": "react-login",
+	"productName": "react-login",
+	"version": "1.0.0",
+	"description": "Modulo de Login",
+	"main": "index.js",
+	"author": "Ing. Samuel Vásquez",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://aqui link del repositorio"
+	},
+	"bugs": {
+		"url": "https://aqui link de bugs"
+	},
+	"keywords": [
+		"react",
+		"login",
+		"react-login"
+	]
+}
