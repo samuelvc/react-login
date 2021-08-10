@@ -1,18 +1,22 @@
 {
 	"name": "react-login",
 	"productName": "react-login",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"description": "Modulo de Login",
 	"main": "index.js",
 	"author": "Ing. Samuel Vásquez",
 	"license": "MIT",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
 	"repository": {
 		"type": "git",
-		"url": "https://aqui link del repositorio"
+		"url": "https://github.com/samuelvc/react-login.git"
 	},
 	"bugs": {
-		"url": "https://aqui link de bugs"
+		"url": "https://github.com/samuelvc/react-login/issues"
 	},
+	"homepage": "https://github.com/samuelvc/react-login/#readme",
 	"keywords": [
 		"react",
 		"login",
