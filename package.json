@@ -1,7 +1,7 @@
 {
-	"name": "react-login",
+	"name": "react-login-xplor",
 	"productName": "react-login",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Modulo de Login",
 	"main": "index.js",
 	"author": "Ing. Samuel Vásquez",
@@ -21,5 +21,8 @@
 		"react",
 		"login",
 		"react-login"
-	]
+	],
+	"dependencies": {
+		"react": "^17.0.1"
+	}
 }

@@ -14,7 +14,8 @@ const quotes = [
  * @returns {string}
  */
 function randomQuote() {
-  return quotes[Math.floor(Math.random() * quotes.length)];
+	const n = Math.floor(Math.random() * quotes.length);
+  return {text: quotes[n], rnd: n};
 }
 
 module.exports = {
